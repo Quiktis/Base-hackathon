@@ -1,0 +1,50 @@
+{
+  "events": [
+    {
+      "title": "Dinner and Awards Night",
+      "event_id_bytes32": "0xc052c92c54959f884d69db032e27fa1ca79e4e39aeff4d3977c9bdf2cdbf3de0",
+      "checked_in": 30,
+      "wallets": [
+        "0x5bf2aa11b0c112f284c27c7f1889882435550d2c",
+        "0x98c0bbcb76377a75619fb55f4f9d8a7f4b031838",
+        "0x745c6e35de109316b1c3609272054ee07a0e3249",
+        "0xcba23963d896acc760e7f2cf77a31dc69b932fd9",
+        "0xb9085a62a1a6fc9ca2c883146cea1e86a9f7e0d9",
+        "0xa1c2f721227a572e5b2a74b15e8c9a5f3c4920ac",
+        "0x9bca5601ad4f31ee92a049b6e3418cb6eed58a3e",
+        "0x40f1ba2064f9599bc97029ac3d628de6546d2bb9",
+        "0xef1f46fd54c099eac3c96ceb2a60e77f2bb96519",
+        "0xd6505698339429820dadaf0f79a616e541655e0b",
+        "0x192ac015ef3eee76e4af5b35c82b247220fcbce1",
+        "0x7a5113365448e9d84c8bed094bd9d3ff65bd0863",
+        "0x21f25b4bb88c4c02445b35ec34a3bd912c77a5fc",
+        "0x1af2cff86c0650c21b26b97aad3fbe60ea659c8c",
+        "0xca402257ad3ff806b1853f4992ef4e02a0abe7e5",
+        "0x23b0b9fd5f7e30aafaea865382824a7103c1b627",
+        "0x776eec554193adf20bd30c09a7bfe13f59fb6521",
+        "0x712082afdc3ed62385294a16800e5f75cbbe7eaf",
+        "0x1a9d04f55d8fa0c488f3682346dfe72a19cd1911",
+        "0xdc2783858655c903fb26f66d4d6444bcc89825a7",
+        "0xb1dc77c36b864b6479a5734c9d26ac9cfafd223f",
+        "0x95213fee324c42b5283c4bde77377babf404ab46",
+        "0x089f2e8dd102bfb8fde1b38308b2e39207c061eb",
+        "0xf3d9c374cbbc5d12a63dbc9e01cbc249b096a8bb",
+        "0x73dfda24d36978cd18cf88aa7ccc9775a8223c37",
+        "0xa00f8252295679eec3cc851b6d92900c5adeccd1",
+        "0xd4b1af8519b2dffee71661c0aabc652fedd140e7",
+        "0xa2599846ff664aec30d598c933e18997938c5250",
+        "0xbf26df7c16ab30853eb29744ed1c7ce11ad3f0ca",
+        "0xcabea738c83473c7633383b924fc2b121223c8e9"
+      ]
+    },
+    {
+      "title": "Waves and Raves",
+      "event_id_bytes32": "0xadec12dbce4363e10e54559349b71af7f2fe5bb25db0ad5a17caecf7c1ed0747",
+      "checked_in": 2,
+      "wallets": [
+        "0xe34c8e682f2d388f09bf43cd277c00542d43a500",
+        "0xa03ca397f12cb7bbb293e0d7438f2358ed078a25"
+      ]
+    }
+  ]
+}

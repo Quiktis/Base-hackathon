@@ -26,7 +26,7 @@ After event ends → batch anchor to Base (tamper-proof, permanent)
 
 **Contract:** `QuiktisAttendance.sol`  
 **Network:** Base Sepolia (testnet)  
-**Contract Address:** `[paste after deploying on Remix]`
+**Contract Address:** `0x020Bdf07C8970877677Ef064670a4d3BbDBcCa43`
 
 ### Key Functions
 
